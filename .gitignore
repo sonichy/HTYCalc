@@ -1,0 +1,8 @@
+Makefile
+moc_*
+*.o
+ui_*
+*.user
+qrc_*
+*.desktop
+*.stash
